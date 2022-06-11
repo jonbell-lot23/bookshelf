@@ -19,7 +19,7 @@ function Home() {
 
   useEffect(() => {
     const importFunction = async () => {
-      await importAll(require.context("../data", true, /^.*\.(mdx)$/));
+      await importAll(require.context("../data", true, /^.*\.(md)$/));
 
       for (const [key, value] of Object.entries(cache)) {
         const splitKey = key.split("/");
