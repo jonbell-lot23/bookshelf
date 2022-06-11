@@ -78,6 +78,8 @@ function Home() {
         </Head>
         <div className={styles.container}>
           <div className={styles.blogContainer}>
+          
+          
             <div className={styles.firstPane}>
               <div className={styles.header}>PROJECTS</div>
               {firstFolder.map(function (item) {
@@ -99,7 +101,9 @@ function Home() {
               })}
             </div>
             <div className={styles.thirdPane}>
+              <div className="w-1/2">
               {Array.isArray(currentPath) ? markdownElement : null}
+              </div>
             </div>
           </div>
         </div>
