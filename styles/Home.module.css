@@ -72,9 +72,13 @@
 .thirdPane {
   width: 100%;
   height: 100%;
-  font-size: 14px;
 }
 
-.thirdPane > p {
-  margin-top: 8px;
+.essayContent
+{
+  
+}
+
+.essayContent > p {
+  margin-top: 16px;
 }
