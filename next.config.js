@@ -1,7 +1,7 @@
 // next.config.js
 
 const withMDX = require('@next/mdx')({
-  extension: /\.mdx?$/,
+  extension: /\.md?$/,
   options: {
     remarkPlugins: [],
     rehypePlugins: [],
