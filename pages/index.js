@@ -67,7 +67,7 @@ function Home() {
     }
     console.log();
     return (
-      <div>
+      <div class="prose">
         <Head>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -98,7 +98,7 @@ function Home() {
                 );
               })}
             </div>
-            <div className={`${styles.thirdPane}`}>
+            <div className={`${styles.thirdPane} w-full`}>
             <div className={`${styles.essayContent} w-full lg:w-1/2 lg:mx-auto`}>
               {Array.isArray(currentPath) ? markdownElement : null}
               </div>
