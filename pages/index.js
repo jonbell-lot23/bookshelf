@@ -67,7 +67,7 @@ function Home() {
     }
     console.log();
     return (
-      <div class="prose">
+      <div className="prose max-w-max">
         <Head>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
