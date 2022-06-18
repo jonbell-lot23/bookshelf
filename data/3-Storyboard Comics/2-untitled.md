@@ -12,3 +12,6 @@
 ![Alt text](/images/8.png "page 8")
 ![Alt text](/images/9.png "page 9")
 ![Alt text](/images/10.png "page 10")
+![Alt text](/images/11.png "page 11")
+![Alt text](/images/12.png "page 12")
+![Alt text](/images/13.png "page 13")
