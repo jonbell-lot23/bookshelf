@@ -1,4 +1,4 @@
-## Bookshelf and Board 
+## Bookshelf and Board
 #### 12 June, 2022
 
 I have two major projects in flight right now, Bookshelf and Board.
@@ -31,7 +31,7 @@ Today I’d just be happy to automatically commit them to github. The delete/aut
 
 * Board now auto-commits to GitHub, and I deleted some stuff
 * Bookshelf now has an alias that auto-commits and deploys
-  
+	  
 High five, me!
 
 (Although my typography is still all messed up, so I need to address that soon)
