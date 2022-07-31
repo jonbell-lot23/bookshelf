@@ -1,5 +1,4 @@
 // next.config.js
-
 const withMDX = require('@next/mdx')({
   extension: /\.md?$/,
   options: {
@@ -12,4 +11,12 @@ const withMDX = require('@next/mdx')({
 module.exports = withMDX({
   // Append the default value with md extensions
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
+  async rewrites() {
+    return [
+      {
+        source: '/',
+        destination: '/home/',
+      },
+    ]
+  },
 })
