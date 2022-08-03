@@ -12,15 +12,15 @@ There are a lot of inside jokes about lyrics being unimportant on the Nevermind 
 
 And then there’s Alanis. Every single line is coming straight from her heart, and targeted at a person. It starts simple:
 
-I want you to know
+I want you to know  
 That I’m happy for you
 
 And famously escalates from there. It’s a primal, intense, relatable explosion of emotion from someone who has something to say and the means with which to say it. The entire album is known for direct, confessional, and emotional output, whereas Nirvana’s instant classic is known more for opaque lyrics like:
 
-Come doused in mud, soaked in bleach
+Come doused in mud, soaked in bleach  
 As I want you to be
 
-Which isn’t to say Kurt’s lyrics aren’t powerful, or to claim that the album isn’t solid. Most people agree that it’s some of the best songwriting of the decade, and massively influential. But so was Jagged Little Pill, who managed to caused the same cultural tsunami without hiding behind the meanings of her lyrics. Alanis wanted you to see her for who she was, and she succeeded. And in the process, she was more relatable and perhaps even more inspirational than the mighty Nirvana.
+Which isn’t to say Kurt’s lyrics aren’t powerful, or to claim that the album isn’t solid. Most people agree that it’s some of the best songwriting of the decade, and massively influential. But so was Jagged Little Pill, who managed to cause the same cultural tsunami without hiding behind the meanings of her lyrics. Alanis wanted you to see her for who she was, and she succeeded. And in the process, she was more relatable and perhaps even more inspirational than the mighty Nirvana.
  
 
 
