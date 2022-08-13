@@ -1,4 +1,4 @@
-## 9-Two Singers
+## 09-Two Singers
 
 I’m watching a documentary on Alanis Morresette, and they’re talking about the way her first single detonated. And it reminded me of Nirvana’s first single. And in the interest of putting the thesis and premise right up front, I’ll just say that Alanis may have had a bigger impact on songwriting in the 90s than Kurt. That’s a tall order, but hear me out.
 

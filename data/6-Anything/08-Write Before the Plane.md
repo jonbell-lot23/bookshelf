@@ -1,4 +1,4 @@
-## 8-Write Before the Plane
+## 08-Write Before the Plane
 
 I don’t actually think my flight will go down in flames, but right before I travel I feel chapters ending and beginning. This is the last day I’ll be in America for some time. Maybe we’ll come back in a few months, but maybe not. And regardless of when I return again, the trip is drawing to a close, which makes me feel introspective.
 
