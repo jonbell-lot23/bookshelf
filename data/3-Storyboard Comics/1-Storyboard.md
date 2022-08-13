@@ -1,3 +1,0 @@
-## Storyboard Comics!
-
-Yeah!
