@@ -1,4 +1,7 @@
 
+## Oh me oh my
+#### (Not sure of the date — August 1?)
+
 Oh, this is a really big day. I finally got permalinks working on this site, so now I can point to essays like this one. Before today, I’d have to say “Go to my website, then click this, then click this other thing” which isn’t great. But now it works, thanks to an assist from a person I met on reddit. Hurray!
 
 I also inadvertently fixed another issue. It turns out I had been deploying incorrectly, but in a way I could only notice when I did dynamic URLs. So when I fixed the deploy issue for Bookshelf, I might have unblocked a bunch of other things at the same time. Which was pretty cool!
