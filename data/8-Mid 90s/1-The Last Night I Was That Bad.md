@@ -1,4 +1,3 @@
-## The Last Night I Was That Bad
 
 It was late summer, 1994. A few months earlier, I had been sent from my leafy suburb in Maryland to the middle of the desert in Eastern Oregon. It was referred to as the “sunken forest” because somewhere in the middle of nowhere, the plates of the earth had leaned together just barely enough to make a tiny forest. It was probably half an acre and you could spot the trees there from a mile away.
 
