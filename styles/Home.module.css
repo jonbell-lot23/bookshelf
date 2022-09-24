@@ -42,14 +42,12 @@
   height: 100%;
 }
 
-.firstPane
-{
-  width: 14rem;
+.firstPane {
+  width: 400px;
 }
 
-.secondPane
-{
-  width: 14rem;
+.secondPane {
+  width: 400px;
 }
 
 .thirdPane h2 {
@@ -77,9 +75,7 @@
   height: 100%;
 }
 
-.essayContent
-{
-  
+.essayContent {
 }
 
 .essayContent > p {
