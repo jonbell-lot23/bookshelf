@@ -8,7 +8,7 @@
     "deploy": "next deploy",
     "start": "next start; npx cypress run --record --key dec49c09-1ff9-492c-a23a-db5454132ae1",
     "lint": "next lint",
-    "butts": "npx cypress run --record --key dec49c09-1ff9-492c-a23a-db5454132ae1"
+    "jontest": "npx cypress run --record --key dec49c09-1ff9-492c-a23a-db5454132ae1"
   },
   "dependencies": {
     "@mdx-js/loader": "^2.1.1",
