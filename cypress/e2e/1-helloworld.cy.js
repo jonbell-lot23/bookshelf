@@ -3,6 +3,6 @@ describe("Check some stuff", () => {
     cy.visit("https://bookshelf.lot23.com");
   });
   it("passes", () => {
-    cy.visit("https://bookshelf.lot25.com");
+    cy.visit("https://bookshelf.lot23.com");
   });
 });
