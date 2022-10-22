@@ -2,12 +2,10 @@ import { useEffect, useState, createElement } from "react";
 import styles from "../styles/Home.module.css";
 import { MDXProvider } from "@mdx-js/react";
 import Head from "next/head";
-import { useRouter } from 'next/router'
+import { useRouter } from "next/router";
 import Link from "next/link";
 
 function Home() {
-
-  
   const [loaded, setLoaded] = useState(false);
   const [fullList, setFullList] = useState([]);
   const [firstFolder, setFirstFolder] = useState([]);
@@ -51,27 +49,27 @@ function Home() {
   if (loaded === true) {
     let secondFolder = [];
     let currentPath = null;
-    const router = useRouter()
+    const router = useRouter();
     const { slug } = router.query;
-    if (slug !== undefined){
+    if (slug !== undefined) {
       console.log(currentPath);
       console.log(slug);
       var firstpanekey = slug[0];
       var secondpanekey = slug[1];
-      if (firstpanekey !==undefined && firstpanekey !== 'home'){
+      if (firstpanekey !== undefined && firstpanekey !== "home") {
         secondFolder = getSecondFolder(firstpanekey);
-        if (slug.length === 1){
+        if (slug.length === 1) {
           currentPath = firstpanekey;
         }
       }
-      console.log('secondFolder: '+JSON.stringify(secondFolder));
-      console.log('currentPath: '+JSON.stringify(currentPath));
-      
-      if (slug.length ===2 &&  secondFolder.includes(secondpanekey)){
-        currentPath = slug;       
+      console.log("secondFolder: " + JSON.stringify(secondFolder));
+      console.log("currentPath: " + JSON.stringify(currentPath));
+
+      if (slug.length === 2 && secondFolder.includes(secondpanekey)) {
+        currentPath = slug;
       }
     }
-    
+
     var markdownElement;
     console.log(currentPath);
     if (Array.isArray(currentPath)) {
@@ -100,9 +98,9 @@ function Home() {
                 return (
                   <Link href={`/${item}`} key={item}>
                     <a>
-                    <h1>{item}</h1>
+                      <h1>{item}</h1>
                     </a>
-                   </Link>
+                  </Link>
                 );
               })}
             </div>
@@ -119,8 +117,11 @@ function Home() {
               })}
             </div>
             <div className={`${styles.thirdPane} w-full`}>
-            <div className={`${styles.essayContent} w-full lg:w-1/2 lg:mx-auto`}>
-              {Array.isArray(currentPath) ? markdownElement : null}
+              <div
+                className={`${styles.essayContent} w-screen lg:w-1/2 lg:mx-auto`}
+              >
+                <div className="w-screen"></div>
+                {Array.isArray(currentPath) ? markdownElement : null}
               </div>
             </div>
           </div>
