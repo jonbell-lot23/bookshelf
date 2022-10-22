@@ -6,9 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "deploy": "next deploy",
-    "start": "next start; npx cypress run --record --key dec49c09-1ff9-492c-a23a-db5454132ae1",
-    "lint": "next lint",
-    "jontest": "npx cypress run --record --key dec49c09-1ff9-492c-a23a-db5454132ae1"
+    "start": "next start;",
+    "lint": "next lint"
   },
   "dependencies": {
     "@mdx-js/loader": "^2.1.1",
