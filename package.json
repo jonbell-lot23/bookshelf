@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.22.2",
+    "@replayio/cypress": "^0.3.5",
     "@tailwindcss/typography": "^0.5.2",
     "autoprefixer": "^10.4.7",
     "cypress": "^10.10.0",
