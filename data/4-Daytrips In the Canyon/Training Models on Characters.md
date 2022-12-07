@@ -28,9 +28,7 @@ And here’s the output he got:
 ![]()
 ![]()
 
-And of course that’s just for his own face.  You could do the same thing for the art style of Pixar, Dali, Banksy, sports mascots, tech logos, anything you want.
-
-
+And of course that’s just for his own face.  You could do the same thing for the art style of Pixar, Dali, Banksy, sports mascots, tech logos, anything you want. Hold that thought. In the story of AI, that step forward is as fundamental as inventing websites. We’ll come back to that point later.
 
 
 

@@ -1,4 +1,4 @@
-## Some Experiments
+## Some Experiments (Half done)
 
 I want to give myself some challenges to see if I can make them work. So challenge number one is trying to make standard items as if they were drawn by the cartoonist Robert Crumb.
 
