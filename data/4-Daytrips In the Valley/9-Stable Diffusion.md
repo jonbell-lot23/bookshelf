@@ -1,4 +1,4 @@
-## Stable Diffusion
+## 9-Stable Diffusion
 
 While DALL-E and Midjourney tried to walk an ethical fine line, Stable Diffusion completely ignored it and plowed ahead. DALL-E and Midjourney banned pornography, racism, gore, and lots of other stuff. And because they acted as gatekeepers, there was no way around it. Want to post child porn? You can’t. Want to show a bunch of disturbing images of dead bodies? You can’t do that either. But Stable Diffusion wasn’t owned by any one company, so when they hit the scene, the ethical horse was let out of barn. If you can imagine something, Stable Diffusion will attempt to do it, with no rules.
 

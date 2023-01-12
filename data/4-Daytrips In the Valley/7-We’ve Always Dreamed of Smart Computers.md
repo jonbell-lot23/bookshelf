@@ -1,4 +1,4 @@
-## We’ve Always Dreamed of Smart Computers
+## 7-We’ve Always Dreamed of Smart Computers
 
 I’m not particularly animated by the concept of AI, because it’s always existed. Computers that get super smart, maybe one day as smart as us, then smarter, blah blah blah. My attitude for a long time was “wake me when it’s here.”
 
@@ -16,7 +16,7 @@ There’s an old IDEA ad where someone leaves a lamp on the sidewalk, and betwee
 
 There’s not, of course. But it’s fun to think there is.
 
-In 2016, Robin Sloan wrote a post called [Writing with the machine][1] where he showed off a new AI-based writing tool. His software let you press a button when reaching for the right word or phrase, then an AI assistant would return something hopefully good. But the software wasn’t randomly spewing words like horse\_ebooks, it was trained on actual science fiction texts. It was meant as a writer’s assistant, not a writer in its own right.   
+In 2016, Robin Sloan wrote a post called [Writing with the machine][1] where he showed off a new AI-based writing tool. His software let you press a button when reaching for the right word or phrase, then an AI assistant would return something hopefully good. But the software wasn’t randomly spewing words like horse\_ebooks, it was trained on actual science fiction texts. It was meant as a writer’s assistant, not a writer in its own right.  
 
 >   
 > I should say clearly: I am absolutely 100% not talking about an editor that “writes for you,” whatever that means. The world doesn’t need any more dead-eyed robo-text.  

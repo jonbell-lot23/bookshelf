@@ -1,4 +1,4 @@
-## Let's Try Remixing 🎆
+## 4-Let's Try Remixing 🎆
 
 It’s hard to keep track of all the giant leaps forward we’ve seen in AI this week, let alone this month or year. But one of the most significant moments I’ve seen in this whole is Midjourney’s ability to “remix” an image. For example, look at this:
 

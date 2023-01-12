@@ -1,11 +1,11 @@
-## Let’s Try Writing a Story
+## 6-Let’s Try Writing a Story
 
 I am going to send some writing so we can work on writing a new chapter together. Do you understand?
 
 > Yes, I understand. I can help you with your writing by providing feedback and suggestions on organization, style, grammar, and clarity. If you have a specific goal in mind for the chapter you are working on, please let me know and I will do my best to assist you in achieving that goal. I'm here to help you improve your writing and communicate your ideas effectively. Do you have any specific questions or areas of concern that you would like to address as we work on your writing together?
 
 
-Nope, just looking for a writing partner to continue the story. Ok, here's the first chunk of text. For now, just say "I have received this writing" so I know I can keep sending more. Then I'll tell you when I'm ready to work with you.** 
+Nope, just looking for a writing partner to continue the story. Ok, here's the first chunk of text. For now, just say "I have received this writing" so I know I can keep sending more. Then I'll tell you when I'm ready to work with you.\*\* 
 **Parmick**
 
 Years later, Parmick could clearly remember where she was standing when she first heard about the commotion in the town square. She had been picking out some replacement drapes in the merchant’s quarter, as her mom had requested. She was hurrying because she was expected back at the house and the sunset-illuminated skies informed her she was running late. As she heaved a bolt of fabric across the wooden table for for a price check, she heard shouts outside. She turned to the window and saw a collection of people down the street. As they drew closer, she and the shopkeeper both craned their necks. A group of angry people marched by the window, and Parmick heard snatches of words before a clearly understandable chant. They were saying “Hang the queen.”
@@ -84,11 +84,11 @@ Here's some background to understand.
 
 * New Bargas is a proud and independent city that sits on the border between two warring countries.
 
-* It's managed to stay neutral for many years because the merchant class have kept it that way. War is bad for business, and New Bargas is too valuable to allow to fall to petty grievances. 
+* It's managed to stay neutral for many years because the merchant class have kept it that way. War is bad for business, and New Bargas is too valuable to allow to fall to petty grievances.
 
 * But recently the Queen of New Bargas ruled on a controversial topic that lead to some protests. And then those protests were whipped up by internal forces who hope to cause New Bargas to fall.
 
-* Churammus is Caelia's son. Parmick is her daughter. They come from a wealthy family and Caelia is the matriarch. 
+* Churammus is Caelia's son. Parmick is her daughter. They come from a wealthy family and Caelia is the matriarch.
 
 * Parmick has recently become friends with Lauren, one of the two main characters in the story. Lauren is a twin sister to Natalie, the other main character in the story. Natalie was in jail for many months and it was her case that the queen ruled on that led to protests.
 
@@ -116,7 +116,7 @@ I will answer your other questions in a moment, but let me paste a scene that ki
 * She shouldn't punch a guard of course, but she did it when Duggan tried to kiss her without her consent. Which also is illegal.
 * The judges (9 from Foskelinum and 9 from Lenton) voted on who was right and wrong. The decision came down to a perfect tie. Not between Foskelinum and Lenton but between men and women. Women said Natalie was justified and men said she wasn't.
 
-> Thanks for providing more context and background on the conflict in the city. Based on this information, it seems that the unrest in New Bargas is related to a controversial ruling on the case of Natalie, a prisoner who punched her guard after he tried to kiss her without her consent. It also seems that there is a divide between the men and women on the judges' panel, with the men siding with the guard and the women siding with Natalie.* > 
+> Thanks for providing more context and background on the conflict in the city. Based on this information, it seems that the unrest in New Bargas is related to a controversial ruling on the case of Natalie, a prisoner who punched her guard after he tried to kiss her without her consent. It also seems that there is a divide between the men and women on the judges' panel, with the men siding with the guard and the women siding with Natalie.\* \> 
 > With this information, I can begin to write chapter two of your story. Here is a rough outline of the chapter, which I can expand and develop further based on your feedback:
 
 > Chapter Two
@@ -280,7 +280,7 @@ As for Natalie and Lauren, I'll handle them separately. I need to share some det
 
 So Lauren has had a really fun backstory. 
 
-* She met with a person named Lightmerchant who introduced her to a group called the Dual Society. 
+* She met with a person named Lightmerchant who introduced her to a group called the Dual Society.
 
 * The Dual Society are people who wear special magic spectacles that overlay information on the real world with magic. It's sort of like a fantasy way of doing augmented reality.
 

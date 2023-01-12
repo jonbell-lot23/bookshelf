@@ -1,4 +1,4 @@
-## Introduction
+## 1-Introduction
 
 Imagine discovering The Grand Canyon. You didn’t know it would be there, and you sure as heck didn’t invent it, but there it is. It’s in front of you, and it’s really big. So big that the word big doesn’t even do it justice. You get the idea that someone could commit their entire lifetime just to mapping it out and attempting to understand even a portion of it. What to do you do? Where do you start? Not just you, but the collection of travellers who see the same view?
 

@@ -1,4 +1,4 @@
-## Training Models on Characters 🎆
+## 2-Training Models on Characters 🎆
 
 Because things have been happening so quickly, it’s fun to spot moments where things transition from obscure to well-understood. For many people, Andy Baio’s post [Invasive Diffusion: How one unwilling illustrator found herself turned into an AI model][1] is when we first realised that it was possible to make your own personal model based on someone else’s work. Here’s the quick summary:
 

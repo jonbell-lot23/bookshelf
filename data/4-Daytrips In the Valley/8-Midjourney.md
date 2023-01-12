@@ -1,4 +1,4 @@
-## Midjourney
+## 8-Midjourney
 
 I had dozens of little side trips on my AI journey, from a series of essays from Wait But Why to Max Tegmark’s book Life 3.0 to the paperclips web game. And I’ll talk about each of those in due course, but let’s jump instead to present day. I want to talk about Midjourney, and how it moved the AI conversation from an abstract and futuristic theory to something that could delight me right now. 
 
