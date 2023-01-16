@@ -18,7 +18,9 @@ This is where the term “web log” or “blog” came from. Like a Star Trek �
 
 So that’s what I’d like to do about what I’m seeing right now in the world of AI. AI is a Grand Canyon of adventure. There are lots of different trails and experiences to be had. So I’m going to document some of the discoveries I’ve made over the years, some of the figurative day trips that are my favourites, and what sorts of discoveries I want to make next. My hope is that someone else can read about my day trips and be inspired to build on them to take their own trips. Whether they walk the same steps I did so they can go further, decide to go in an entirely different direction, or just want to follow along from the comfort of their own chair, it’s good to explore. And it’s good to share.
 
-Onward!  
+Onward!
+
+(Edit: my wife pointed out that “valley” can refer to the Uncanny Valley, so Maybe Daytrips Through the Valley is a better name)  
 
 
 

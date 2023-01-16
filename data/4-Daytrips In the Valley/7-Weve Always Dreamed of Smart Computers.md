@@ -1,4 +1,4 @@
-## 7-We’ve Always Dreamed of Smart Computers
+## 7-We\’ve Always Dreamed of Smart Computers
 
 I’m not particularly animated by the concept of AI, because it’s always existed. Computers that get super smart, maybe one day as smart as us, then smarter, blah blah blah. My attitude for a long time was “wake me when it’s here.”
 

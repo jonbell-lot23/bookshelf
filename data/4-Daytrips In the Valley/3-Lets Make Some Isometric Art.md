@@ -1,4 +1,4 @@
-## 3-Let's Make Some Isometric Art 🎆
+## 3-Let\’s Make Some Isometric Art 🎆
 
 [I’ve been running a new series that I call “Daytrips Through the Canyon” where I dive into the wide new world of AI art and document what I find, sort of like an explorer discovering the Grand Canyon for the first time. Today’s day trip is going to show what happens when I try to make isometric art.]
 

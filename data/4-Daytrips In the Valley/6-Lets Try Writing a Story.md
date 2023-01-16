@@ -1,4 +1,4 @@
-## 6-Let’s Try Writing a Story
+## 6-Let\’s Try Writing a Story
 
 I am going to send some writing so we can work on writing a new chapter together. Do you understand?
 
